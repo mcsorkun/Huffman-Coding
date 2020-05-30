@@ -10,5 +10,5 @@ We applied the following method to build the Huffman Tree (from [Wikipedia](http
 ![alt text](https://raw.githubusercontent.com/mcsorkun/Huffman-Coding/master/images/huffman-steps.jpg)
 
 
-Packages
+### Dependencies 
 - pandas==0.25.1
